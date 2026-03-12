@@ -39,7 +39,6 @@ esic_rag/
 └── src/
     ├── acquisition.py           # 🔨 Extrae datos de supermercados
     ├── preprocessing.py         # 🔨 Limpia y prepara los datos
-    ├── preprocessing_result.py   # (Resultado esperado de preprocessing.py)
     └── rag.py                   # ✅ Sistema RAG completo (proporcionado)
 ```
 
