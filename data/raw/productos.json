@@ -2859,7 +2859,29 @@
     "origen": "fin CARRÉ"
   },
   {
-    "url": "https://world.openfoodfacts.org/product/8480000095367/muesli-con-quinoa-chia-y-chocolate-negro-hacendado",
+    "url": "https://world.openfoodfacts.org/product/20283360/fiocchi-di-avena-integrali-crownfield",
+    "titulo": "FIOCCHI DI AVENA INTEGRALI",
+    "valores_nutricionales_100_g": {
+      "Grasas": "7 gr",
+      "Saturadas": "1.25 gr",
+      "Hidratos de carbono": "58.75 gr",
+      "Azucares": "0.75 gr",
+      "Proteinas": "13.5 gr",
+      "Sal": "0.02 gr",
+      "Valor energetico": "372.5 kcal"
+    },
+    "descripcion": "Fiocchi d'avena",
+    "categorias": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods"
+    ],
+    "precio_total": 0.0,
+    "precio_por_cantidad": 0.0,
+    "peso_volumen": "500 g",
+    "origen": "Crownfield"
+  },
+  {
+    "url": "https://world.openfoodfacts.org/product/8480000095367/muesli-quinoa-chia-chocolate-negro-hacendado",
     "titulo": "MUESLI CON QUINOA, CHÍA Y CHOCOLATE NEGRO",
     "valores_nutricionales_100_g": {
       "Grasas": "13 gr",
@@ -3101,7 +3123,7 @@
     "origen": "McKennedy by lidl"
   },
   {
-    "url": "https://world.openfoodfacts.org/product/8480000057105/pechuga-de-pavo-cocida-hacendado",
+    "url": "https://world.openfoodfacts.org/product/8480000057105/pechuga-de-pavo-hacendado",
     "titulo": "PECHUGA DE PAVO COCIDA 92%",
     "valores_nutricionales_100_g": {
       "Grasas": "1.2 gr",
@@ -4375,27 +4397,5 @@
     "precio_por_cantidad": 0.0,
     "peso_volumen": "152unknown",
     "origen": "Milbona"
-  },
-  {
-    "url": "https://world.openfoodfacts.org/product/8480000235794/ketchup-hacendado",
-    "titulo": "KETCHUP",
-    "valores_nutricionales_100_g": {
-      "Grasas": "0 gr",
-      "Saturadas": "0 gr",
-      "Hidratos de carbono": "27 gr",
-      "Azucares": "20.5 gr",
-      "Proteinas": "1.3 gr",
-      "Sal": "1.8 gr",
-      "Valor energetico": "115 kcal"
-    },
-    "descripcion": "Tomate, Azúcar, Vinagre de alcohol, Almidón modificado de maíz, Sal, Conservadores (Sorbete potásico y benzoato sódico), Extracto de especias y especia",
-    "categorias": [
-      "en:condiments",
-      "en:sauces"
-    ],
-    "precio_total": 0.0,
-    "precio_por_cantidad": 0.0,
-    "peso_volumen": "600 g",
-    "origen": "Hacendado"
   }
 ]
