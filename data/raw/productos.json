@@ -44,6 +44,28 @@
     "origen": "Lindt EXCELLENCE,Lindt"
   },
   {
+    "url": "https://world.openfoodfacts.org/product/5449000054227/coca-cola-original-taste",
+    "titulo": "COCA COLA ORIGINAL TASTE",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gr",
+      "Saturadas": "0 gr",
+      "Hidratos de carbono": "3.3030303030303 gr",
+      "Azucares": "3.3030303030303 gr",
+      "Proteinas": "0 gr",
+      "Sal": "0 gr",
+      "Valor energetico": "13.3333333333333 kcal"
+    },
+    "descripcion": "Water, fructose - glucose syrup, carbon dioxide, colorant: e150d, acid: phosphoric acid, natural flavorings (including caffeine).",
+    "categorias": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages"
+    ],
+    "precio_total": 0.0,
+    "precio_por_cantidad": 0.0,
+    "peso_volumen": "1 l",
+    "origen": "Coca-Cola"
+  },
+  {
     "url": "https://world.openfoodfacts.org/product/3168930010265/cruesly-melange-de-noix-quaker",
     "titulo": "CRUESLY MÉLANGE DE NOIX",
     "valores_nutricionales_100_g": {
@@ -241,6 +263,50 @@
     "origen": "Wasa"
   },
   {
+    "url": "https://world.openfoodfacts.org/product/5449000214799/coke-zero-coca-cola",
+    "titulo": "COKE ZERO",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gr",
+      "Saturadas": "0 gr",
+      "Hidratos de carbono": "0 gr",
+      "Azucares": "0 gr",
+      "Proteinas": "0 gr",
+      "Sal": "0.03 gr",
+      "Valor energetico": "1 kcal"
+    },
+    "descripcion": "carbonated water, colouring (e150d), acidifier (phosphoric acid), sweeteners (aspartame, acesulfame-k), natural flavors, caffeine aroma, acidity regulator (sodium citrates)",
+    "categorias": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages"
+    ],
+    "precio_total": 0.0,
+    "precio_por_cantidad": 0.0,
+    "peso_volumen": "330 ml",
+    "origen": "Coca-Cola"
+  },
+  {
+    "url": "https://world.openfoodfacts.org/product/5449000214911/coke-coca-cola",
+    "titulo": "COCA-COLA",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gr",
+      "Saturadas": "0 gr",
+      "Hidratos de carbono": "10.6 gr",
+      "Azucares": "10.6 gr",
+      "Proteinas": "0 gr",
+      "Sal": "0 gr",
+      "Valor energetico": "42 kcal"
+    },
+    "descripcion": "Eau gazéifiée, sucre, colorant: E150d, acidifiant: acide phosphorique, arômes naturels, arôme caféine.",
+    "categorias": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages"
+    ],
+    "precio_total": 0.0,
+    "precio_por_cantidad": 0.0,
+    "peso_volumen": "330ml",
+    "origen": "Coca-Cola"
+  },
+  {
     "url": "https://world.openfoodfacts.org/product/8410376009392/fibra-integral-gullon",
     "titulo": "GALLETAS FIBRA ZERO AZÚCARES",
     "valores_nutricionales_100_g": {
@@ -417,6 +483,28 @@
     "origen": "Bjorg"
   },
   {
+    "url": "https://world.openfoodfacts.org/product/5449000000996/coca-cola-original-taste",
+    "titulo": "COCA-COLA ORIGINAL TASTE",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gr",
+      "Saturadas": "0 gr",
+      "Hidratos de carbono": "10.6 gr",
+      "Azucares": "10.6 gr",
+      "Proteinas": "0 gr",
+      "Sal": "0 gr",
+      "Valor energetico": "42 kcal"
+    },
+    "descripcion": "carbonated water, sugar, colour (caramel e150d), acid (phosphoric acid), natural flavourings, caffeine flavouring,",
+    "categorias": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages"
+    ],
+    "precio_total": 0.0,
+    "precio_por_cantidad": 0.0,
+    "peso_volumen": "0.0 kg",
+    "origen": "Coca-Cola"
+  },
+  {
     "url": "https://world.openfoodfacts.org/product/20267605/cashewkerne-alesto",
     "titulo": "CASHEWKERNE",
     "valores_nutricionales_100_g": {
@@ -459,6 +547,28 @@
     "precio_por_cantidad": 0.0,
     "peso_volumen": "1 l",
     "origen": "alpro"
+  },
+  {
+    "url": "https://world.openfoodfacts.org/product/3033710073467/ricore-original-nestle",
+    "titulo": "RICORE ORIGINAL",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gr",
+      "Saturadas": "0 gr",
+      "Hidratos de carbono": "0 gr",
+      "Azucares": "0 gr",
+      "Proteinas": "0 gr",
+      "Sal": "0 gr",
+      "Valor energetico": "0 kcal"
+    },
+    "descripcion": "café soluble 33,2%, fibres de chicorée (oligofructose) 33%, chicorée soluble 30%, sulfate de magnésium,",
+    "categorias": [
+      "en:beverages-and-beverages-preparations",
+      "en:plant-based-foods-and-beverages"
+    ],
+    "precio_total": 0.0,
+    "precio_por_cantidad": 0.0,
+    "peso_volumen": "100 g",
+    "origen": "Nestlé, Ricore"
   },
   {
     "url": "https://world.openfoodfacts.org/product/80176800/nutella",
@@ -791,6 +901,28 @@
     "origen": "Lindt"
   },
   {
+    "url": "https://world.openfoodfacts.org/product/3067140013120/chicoree-soluble-nature-leroux",
+    "titulo": "CHICORÉE SOLUBLE NATURE",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gr",
+      "Saturadas": "0 gr",
+      "Hidratos de carbono": "0 gr",
+      "Azucares": "0 gr",
+      "Proteinas": "0 gr",
+      "Sal": "0 gr",
+      "Valor energetico": "0 kcal"
+    },
+    "descripcion": "100% chicorée soluble",
+    "categorias": [
+      "en:beverages-and-beverages-preparations",
+      "en:plant-based-foods-and-beverages"
+    ],
+    "precio_total": 0.0,
+    "precio_por_cantidad": 0.0,
+    "peso_volumen": "200 g",
+    "origen": "Leroux"
+  },
+  {
     "url": "https://world.openfoodfacts.org/product/5060042641000/lightly-sea-salted-potato-crisps-tyrrell-s",
     "titulo": "LIGHTLY SEA SALTED CRISPS",
     "valores_nutricionales_100_g": {
@@ -1099,6 +1231,28 @@
     "origen": "Heinz"
   },
   {
+    "url": "https://world.openfoodfacts.org/product/5449000131805/coca-cola-zero-sugar",
+    "titulo": "COCA-COLA ZERO SUGAR",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gr",
+      "Saturadas": "0 gr",
+      "Hidratos de carbono": "0 gr",
+      "Azucares": "0 gr",
+      "Proteinas": "0 gr",
+      "Sal": "0.02 gr",
+      "Valor energetico": "0.303030303030303 kcal"
+    },
+    "descripcion": "carbonated water, colour (e150d), acid (phosphoric acid) sweeteners (aspartame, acesulfame-k enzymatically produced steviol glycosides), natural flavourings, caffeine flavouring, acidity regulator (sodium citrates), contains a source of phenylalanine,",
+    "categorias": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages"
+    ],
+    "precio_total": 0.0,
+    "precio_por_cantidad": 0.0,
+    "peso_volumen": "330ml",
+    "origen": "Coca-Cola"
+  },
+  {
     "url": "https://world.openfoodfacts.org/product/3168930009795/muesli-croustillant-noix-de-pecan-noix-du-bresil-quaker",
     "titulo": "MUESLI CROUSTILLANT NOIX DE PÉCAN & NOIX DU BRÉSIL",
     "valores_nutricionales_100_g": {
@@ -1273,6 +1427,50 @@
     "precio_por_cantidad": 0.0,
     "peso_volumen": "415g",
     "origen": "HEINZ"
+  },
+  {
+    "url": "https://world.openfoodfacts.org/product/54491472/original-taste-coca-cola",
+    "titulo": "ORIGINAL TASTE",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gr",
+      "Saturadas": "0 gr",
+      "Hidratos de carbono": "10.9 gr",
+      "Azucares": "10.9 gr",
+      "Proteinas": "0 gr",
+      "Sal": "0 gr",
+      "Valor energetico": "44 kcal"
+    },
+    "descripcion": "water, fructose-glucose syrup, carbon dioxide, colorant: e150d, acid: phosphoric acid, natural flavors, caffeine flavoring,",
+    "categorias": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages"
+    ],
+    "precio_total": 0.0,
+    "precio_por_cantidad": 0.0,
+    "peso_volumen": "0.5l",
+    "origen": "Coca-Cola"
+  },
+  {
+    "url": "https://world.openfoodfacts.org/product/5449000131836/coca-cola-zero-500ml",
+    "titulo": "COCA-COLA ZERO 500ML",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gr",
+      "Saturadas": "0 gr",
+      "Hidratos de carbono": "0 gr",
+      "Azucares": "0 gr",
+      "Proteinas": "0 gr",
+      "Sal": "0.05 gr",
+      "Valor energetico": "0.2 kcal"
+    },
+    "descripcion": "water, carbonic acid, colouring, e 150 sweeteners: cyclamate, acesulfame k and aspartame, acidifiers: e 338, acidity regulator: sodium citrates, natural flavourings, flavouring caffeine",
+    "categorias": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages"
+    ],
+    "precio_total": 0.0,
+    "precio_por_cantidad": 0.0,
+    "peso_volumen": "500ml",
+    "origen": "Coca-Cola"
   },
   {
     "url": "https://world.openfoodfacts.org/product/20171841/tostas-integral-centeno-centeio-tastino",
@@ -1451,6 +1649,28 @@
     "origen": "Brüggen"
   },
   {
+    "url": "https://world.openfoodfacts.org/product/7613035530799/nesquik-moins-de-sucres-nestle",
+    "titulo": "NESQUIK MOINS DE SUCRES",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gr",
+      "Saturadas": "0 gr",
+      "Hidratos de carbono": "0 gr",
+      "Azucares": "0 gr",
+      "Proteinas": "0 gr",
+      "Sal": "0 gr",
+      "Valor energetico": "0 kcal"
+    },
+    "descripcion": "low-fat cocoa powder (28%), soluble corn fibre, sugars, oat flour**, emulsifier (soy lecithin), natural flavours, vitamins (c, d), cinnamon, **gluten free,",
+    "categorias": [
+      "en:beverages-and-beverages-preparations",
+      "en:cocoa-and-its-products"
+    ],
+    "precio_total": 0.0,
+    "precio_por_cantidad": 0.0,
+    "peso_volumen": "350 g",
+    "origen": "Nestlé,Nesquik"
+  },
+  {
     "url": "https://world.openfoodfacts.org/product/3017620421006/pate-a-tartiner-nutella-noisettes-et-cacao-750g-ferrero",
     "titulo": "PÂTE À TARTINER NUTELLA NOISETTES ET CACAO - 750G",
     "valores_nutricionales_100_g": {
@@ -1515,6 +1735,28 @@
     "precio_por_cantidad": 0.0,
     "peso_volumen": "50 g",
     "origen": "Lindt"
+  },
+  {
+    "url": "https://world.openfoodfacts.org/product/4056489028109/shot-de-gingembre-bio-solevita",
+    "titulo": "SHOT DE GINGEMBRE BIO",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gr",
+      "Saturadas": "0 gr",
+      "Hidratos de carbono": "7.9 gr",
+      "Azucares": "7.6 gr",
+      "Proteinas": "0 gr",
+      "Sal": "0 gr",
+      "Valor energetico": "33 kcal"
+    },
+    "descripcion": "Jus de pomme* 65%, jus de gingembre* 25%, jus de citron* 10%, antioxydant (acide ascorbique)",
+    "categorias": [
+      "en:beverages-and-beverages-preparations",
+      "en:plant-based-foods-and-beverages"
+    ],
+    "precio_total": 0.0,
+    "precio_por_cantidad": 0.0,
+    "peso_volumen": "150ml",
+    "origen": "Solevita,Lidl"
   },
   {
     "url": "https://world.openfoodfacts.org/product/7622210103314/philadelphia-original",
@@ -1935,28 +2177,6 @@
     "origen": "Mondelez International"
   },
   {
-    "url": "https://world.openfoodfacts.org/product/20150907/cranberries-dried-sugared-alesto",
-    "titulo": "",
-    "valores_nutricionales_100_g": {
-      "Grasas": "1.2 gr",
-      "Saturadas": "0.1 gr",
-      "Hidratos de carbono": "78 gr",
-      "Azucares": "70.5 gr",
-      "Proteinas": "0.7 gr",
-      "Sal": "0.03 gr",
-      "Valor energetico": "338 kcal"
-    },
-    "descripcion": "60% tranebær, 39% sukker, solsikkeolie. Kan indeholde spor af nødder og jordnødder.",
-    "categorias": [
-      "en:plant-based-foods-and-beverages",
-      "en:plant-based-foods"
-    ],
-    "precio_total": 0.0,
-    "precio_por_cantidad": 0.0,
-    "peso_volumen": "200g",
-    "origen": "Alesto"
-  },
-  {
     "url": "https://world.openfoodfacts.org/product/6111021090049/concentre-de-tomates-aicha",
     "titulo": "CONCENTRÉ DE TOMATES AICHA",
     "valores_nutricionales_100_g": {
@@ -2089,6 +2309,28 @@
     "origen": "Snickers"
   },
   {
+    "url": "https://world.openfoodfacts.org/product/5449000267412/coca-cola-gout-original",
+    "titulo": "COCA-COLA GOÛT ORIGINAL",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gr",
+      "Saturadas": "0 gr",
+      "Hidratos de carbono": "10.6 gr",
+      "Azucares": "10.6 gr",
+      "Proteinas": "0 gr",
+      "Sal": "0 gr",
+      "Valor energetico": "42 kcal"
+    },
+    "descripcion": "eau gazéifiée, sucre, colorant (E150d), acidifiant (acide phosphorique), arômes naturels, caféine",
+    "categorias": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages"
+    ],
+    "precio_total": 0.0,
+    "precio_por_cantidad": 0.0,
+    "peso_volumen": "1,25 L",
+    "origen": "Coca-Cola"
+  },
+  {
     "url": "https://world.openfoodfacts.org/product/8410376037784/zero-no-sugar-sandwich-cookies-gullon",
     "titulo": "SANDWICH ZERO SIN AZÚCARES",
     "valores_nutricionales_100_g": {
@@ -2155,6 +2397,28 @@
     "origen": "gullón"
   },
   {
+    "url": "https://world.openfoodfacts.org/product/3033710065967/nesquik-cacao-nestle",
+    "titulo": "NESQUIK CACAO",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gr",
+      "Saturadas": "0 gr",
+      "Hidratos de carbono": "0 gr",
+      "Azucares": "0 gr",
+      "Proteinas": "0 gr",
+      "Sal": "0 gr",
+      "Valor energetico": "0 kcal"
+    },
+    "descripcion": "Sucre, cacao maigre en poudre 23%*, émulsifiant : lécithine de SOJA, sel, vitamines : C, D, arôme naturel, cannelle. *Bilan massique certifié Rainforest Alliance www.ra.org/fr",
+    "categorias": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages"
+    ],
+    "precio_total": 0.0,
+    "precio_por_cantidad": 0.0,
+    "peso_volumen": "1 kg",
+    "origen": "Nestlé, Nesquik"
+  },
+  {
     "url": "https://world.openfoodfacts.org/product/5053990161669/pringles-paprika-165g",
     "titulo": "КАРТОФЕЛЬНЫЕ ЧИПСЫ СО ВКУСОМ ПАРИКИ",
     "valores_nutricionales_100_g": {
@@ -2175,6 +2439,28 @@
     "precio_por_cantidad": 0.0,
     "peso_volumen": "165g",
     "origen": "Pringles,Kellogg's"
+  },
+  {
+    "url": "https://world.openfoodfacts.org/product/6111245370064/levure-sboula",
+    "titulo": "LEVURE",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gr",
+      "Saturadas": "0 gr",
+      "Hidratos de carbono": "0 gr",
+      "Azucares": "0 gr",
+      "Proteinas": "0 gr",
+      "Sal": "0 gr",
+      "Valor energetico": "0 kcal"
+    },
+    "descripcion": "Yeast, Emulsifier (E491/SIN491)",
+    "categorias": [
+      "en:condiments",
+      "en:food-additives"
+    ],
+    "precio_total": 0.0,
+    "precio_por_cantidad": 0.0,
+    "peso_volumen": "",
+    "origen": "Sboula"
   },
   {
     "url": "https://world.openfoodfacts.org/product/8076809513388/arrabbiata-barilla",
@@ -2815,6 +3101,50 @@
     "origen": "Hacendado"
   },
   {
+    "url": "https://world.openfoodfacts.org/product/6111035002052/bul-tropicale-les-eaux-minerales-d-oulmes",
+    "titulo": "BUL'TROPICALE",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gr",
+      "Saturadas": "0 gr",
+      "Hidratos de carbono": "11.8 gr",
+      "Azucares": "8.9 gr",
+      "Proteinas": "0 gr",
+      "Sal": "0 gr",
+      "Valor energetico": "44 kcal"
+    },
+    "descripcion": "eau minérale naturelle gazeuse, jus de fruits, sucre, arômes, acidifiant acide citrique, antioxydant acide ascorbique, colorant, sel",
+    "categorias": [
+      "en:juice",
+      "fr:sidi-ali"
+    ],
+    "precio_total": 0.0,
+    "precio_por_cantidad": 0.0,
+    "peso_volumen": "",
+    "origen": "Les Eaux Minérales d'Oulmès, Oulmès"
+  },
+  {
+    "url": "https://world.openfoodfacts.org/product/20615420/peanuts-roasted-unsalted-alesto",
+    "titulo": "PAAHDETTU MAAPÄHKINÄ",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gr",
+      "Saturadas": "0 gr",
+      "Hidratos de carbono": "0 gr",
+      "Azucares": "0 gr",
+      "Proteinas": "0 gr",
+      "Sal": "0 gr",
+      "Valor energetico": "0 kcal"
+    },
+    "descripcion": "Maapähkinä, auringonkukkaöljy.",
+    "categorias": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods"
+    ],
+    "precio_total": 0.0,
+    "precio_por_cantidad": 0.0,
+    "peso_volumen": "200 g",
+    "origen": "Alesto"
+  },
+  {
     "url": "https://world.openfoodfacts.org/product/5410126716016/biscoff-lotus",
     "titulo": "BISCOFF",
     "valores_nutricionales_100_g": {
@@ -2947,26 +3277,26 @@
     "origen": "Heinz"
   },
   {
-    "url": "https://world.openfoodfacts.org/product/8008698011065/meisterbackers-vital-schar",
-    "titulo": "",
+    "url": "https://world.openfoodfacts.org/product/7613039490266/nesquik-nestle",
+    "titulo": "NESQUIK",
     "valores_nutricionales_100_g": {
-      "Grasas": "9.2 gr",
-      "Saturadas": "1.1 gr",
-      "Hidratos de carbono": "36 gr",
-      "Azucares": "0.9 gr",
-      "Proteinas": "4.5 gr",
-      "Sal": "1 gr",
-      "Valor energetico": "248.275862068966 kcal"
+      "Grasas": "0 gr",
+      "Saturadas": "0 gr",
+      "Hidratos de carbono": "0 gr",
+      "Azucares": "0 gr",
+      "Proteinas": "0 gr",
+      "Sal": "0 gr",
+      "Valor energetico": "0 kcal"
     },
-    "descripcion": "maize starch, sourdough 20% (rice flour, water), water, rice flour, sunflower seeds 6,6%, flax seeds 6,6%, vegetable fiber (psyllium), quinoa flour 2,9%, apple extract, sorghum flour 2,6%, yeast, sunflower oil, thickener: hydroxypropyl methylcellulose, chestnut flour 1,0%, iodized salt (salt, potassium iodide), natural flavor,",
+    "descripcion": "sugar, natural defatted cocoa powder 23%, emulsifier (soy lecithin), salt, vitamins (c, d), natural aroma, cinnamon,",
     "categorias": [
-      "en:plant-based-foods-and-beverages",
-      "en:plant-based-foods"
+      "en:beverages-and-beverages-preparations",
+      "en:beverages"
     ],
     "precio_total": 0.0,
     "precio_por_cantidad": 0.0,
-    "peso_volumen": "350g",
-    "origen": "Schär"
+    "peso_volumen": "390 g",
+    "origen": "Nestlé"
   },
   {
     "url": "https://world.openfoodfacts.org/product/3560070308316/biscottes-completes-bio-carrefour",
@@ -3255,28 +3585,6 @@
     "origen": "Pringles"
   },
   {
-    "url": "https://world.openfoodfacts.org/product/5410126116953/biscoff-smooth-lotus",
-    "titulo": "",
-    "valores_nutricionales_100_g": {
-      "Grasas": "15.2 gr",
-      "Saturadas": "3.2 gr",
-      "Hidratos de carbono": "22.8 gr",
-      "Azucares": "14.8 gr",
-      "Proteinas": "1.2 gr",
-      "Sal": "0.31 gr",
-      "Valor energetico": "586.666666666667 kcal"
-    },
-    "descripcion": "Karamellisoituja keksejä 58% (vehnäjauho, sokeri, kasviöljyt (palmu*, rapsi), siirappi, nostatusaine (natriumvetykarbonaatti), soijajauho, suola, kaneli), rapsiöljy, sokeri, emulgointiaine (soijalesitiini), happo (sitruunahappo),",
-    "categorias": [
-      "en:breakfasts",
-      "en:spreads"
-    ],
-    "precio_total": 0.0,
-    "precio_por_cantidad": 0.0,
-    "peso_volumen": "400g",
-    "origen": "Lotus"
-  },
-  {
     "url": "https://world.openfoodfacts.org/product/8410376059373/barquillos-chocolate-zero-sin-azucares-gullon",
     "titulo": "BARQUILLOS CHOCOLATE ZERO SIN AZÚCARES",
     "valores_nutricionales_100_g": {
@@ -3387,6 +3695,28 @@
     "origen": "Ferrero,Kinder"
   },
   {
+    "url": "https://world.openfoodfacts.org/product/8410261643014/simon-life-don-simon",
+    "titulo": "SIMON LIFE",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0.1 gr",
+      "Saturadas": "0 gr",
+      "Hidratos de carbono": "4.8 gr",
+      "Azucares": "4.8 gr",
+      "Proteinas": "0 gr",
+      "Sal": "0.03 gr",
+      "Valor energetico": "20 kcal"
+    },
+    "descripcion": "water, sugar, orange juice from concentrate, citric acid, flavorings, sweeteners, aspartame, acesulfame k, stabilizers, gum arabic, glycerol esters of wood rosin, color, beta-carotene",
+    "categorias": [
+      "en:plant-based-foods-and-beverages",
+      "en:beverages"
+    ],
+    "precio_total": 0.0,
+    "precio_por_cantidad": 0.0,
+    "peso_volumen": "33 cL",
+    "origen": "Don Simón"
+  },
+  {
     "url": "https://world.openfoodfacts.org/product/5411188137993/heidelbeere-alpro",
     "titulo": "HEIDELBEERE AUS SOJA",
     "valores_nutricionales_100_g": {
@@ -3473,6 +3803,28 @@
     "precio_por_cantidad": 0.0,
     "peso_volumen": "1l",
     "origen": "Alpro,Danone"
+  },
+  {
+    "url": "https://world.openfoodfacts.org/product/9002490100070/energy-drink-0-250-red-bull",
+    "titulo": "RED BULL",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gr",
+      "Saturadas": "0 gr",
+      "Hidratos de carbono": "11 gr",
+      "Azucares": "11 gr",
+      "Proteinas": "0 gr",
+      "Sal": "0.1 gr",
+      "Valor energetico": "46 kcal"
+    },
+    "descripcion": "Woda, sacharoza, glukoza, kwas (kwas cytrynowy), dwutlenek węgla, tauryna (0,4%), regulator kwasowości (węglany sodu, węglany magnezu), kofeina (0,03%), witaminy (niacyna, kwas pantotenowy, B6, B12), aromaty, barwniki (karmel, ryboflawiny),",
+    "categorias": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages"
+    ],
+    "precio_total": 0.0,
+    "precio_por_cantidad": 0.0,
+    "peso_volumen": "250ml",
+    "origen": "RED BULL"
   },
   {
     "url": "https://world.openfoodfacts.org/product/7613037397956/garden-gourmet-sensational-burger-soja-226g",
@@ -3607,6 +3959,28 @@
     "origen": "Carrefour BIO, Carrefour"
   },
   {
+    "url": "https://world.openfoodfacts.org/product/8000500037560/bueno-kinder",
+    "titulo": "BUENO",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gr",
+      "Saturadas": "0 gr",
+      "Hidratos de carbono": "0 gr",
+      "Azucares": "0 gr",
+      "Proteinas": "0 gr",
+      "Sal": "0 gr",
+      "Valor energetico": "0 kcal"
+    },
+    "descripcion": "milk chocolate 31,5 % (sugar, cocoa butter, cocoa mass, skimmed milk powder, concentrated butter, emulsifiers: lecithins [soya], vanillin), sugar, palm oil, wheat flour, ground hazelnuts 10,8%, skimmed milk powder, milk powder, dark chocolate (sugar, cocoa mass, cocoa butter, emulsifiers: lecithins [soya], vanillin), lean cocoa, emulsifiers: lecithins [soya], raising agents (sodium acid carbonate, ammonium acid carbonate), salt, vanillin,",
+    "categorias": [
+      "en:snacks",
+      "en:sweet-snacks"
+    ],
+    "precio_total": 0.0,
+    "precio_por_cantidad": 0.0,
+    "peso_volumen": "43g",
+    "origen": "Kinder"
+  },
+  {
     "url": "https://world.openfoodfacts.org/product/8480000512239/queso-blanco-pasteurizado-hacendado",
     "titulo": "QUESO BLANCO PASTEURIZADO",
     "valores_nutricionales_100_g": {
@@ -3673,6 +4047,28 @@
     "origen": "Kellogg's"
   },
   {
+    "url": "https://world.openfoodfacts.org/product/20177218/caramel-70-cacao-caramel-j-d-gross",
+    "titulo": "NOIR DEGUSTATION 70% CARAMEL",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gr",
+      "Saturadas": "0 gr",
+      "Hidratos de carbono": "0 gr",
+      "Azucares": "0 gr",
+      "Proteinas": "0 gr",
+      "Sal": "0 gr",
+      "Valor energetico": "544 kcal"
+    },
+    "descripcion": "Pâte de cacao, sucre, beurre de cacao, sirop de glucose, beurre concentré (lait), émulsifiant : lécithines (tournesol), arôme naturel, sel, extrait de vanille, Chocolat noir : cacao : 70 % minimum,",
+    "categorias": [
+      "en:snacks",
+      "en:sweet-snacks"
+    ],
+    "precio_total": 0.0,
+    "precio_por_cantidad": 0.0,
+    "peso_volumen": "125 g",
+    "origen": "J.D. Gross"
+  },
+  {
     "url": "https://world.openfoodfacts.org/product/8000500267035/delice-kinder",
     "titulo": "KINDER DELICE",
     "valores_nutricionales_100_g": {
@@ -3736,6 +4132,28 @@
     "precio_total": 0.0,
     "precio_por_cantidad": 0.0,
     "peso_volumen": "240 g",
+    "origen": "Hacendado"
+  },
+  {
+    "url": "https://world.openfoodfacts.org/product/8480000142429/trigo-espelta-0-azucares-hacendado",
+    "titulo": "TRIGO ESPELTA 0% AZUCARES",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gr",
+      "Saturadas": "0 gr",
+      "Hidratos de carbono": "0 gr",
+      "Azucares": "0 gr",
+      "Proteinas": "0 gr",
+      "Sal": "0 gr",
+      "Valor energetico": "0 kcal"
+    },
+    "descripcion": "Espelta 68 % (_gluten_, harina integral de _trigo_ espelta, copos de _trigo_ (espelta), edulcorante (maltitol), grasa vegetal de palma, fibra vegetal (inulina), _leche_ desnatada en polvo, fibra vegetal (avena), gasificantes (carbonatos de sodio, carbonato de amonio y difosfatos), sal, aromas, emulgente (lecitina de _soja_).",
+    "categorias": [
+      "en:snacks",
+      "en:sweet-snacks"
+    ],
+    "precio_total": 0.0,
+    "precio_por_cantidad": 0.0,
+    "peso_volumen": "200 g",
     "origen": "Hacendado"
   },
   {
@@ -3915,6 +4333,28 @@
     "origen": "Nutella,Ferrero"
   },
   {
+    "url": "https://world.openfoodfacts.org/product/5000112611878/pet-1-75l-coca-cola-zero",
+    "titulo": "PET 1.75L COCA COLA® ZÈRO",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gr",
+      "Saturadas": "0 gr",
+      "Hidratos de carbono": "0 gr",
+      "Azucares": "0 gr",
+      "Proteinas": "0 gr",
+      "Sal": "0 gr",
+      "Valor energetico": "0 kcal"
+    },
+    "descripcion": "Eau gazéifiée, colorant (E150d), acidifiants (acide phosphorique), édulcorants (aspartame, acésulfame-K), arômes naturels (dont caféine), citrate de sodium.",
+    "categorias": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages"
+    ],
+    "precio_total": 0.0,
+    "precio_por_cantidad": 0.0,
+    "peso_volumen": "1,75 L e",
+    "origen": "Coca-Cola®"
+  },
+  {
     "url": "https://world.openfoodfacts.org/product/8480000229663/corn-flakes-picahado",
     "titulo": "CORN FLAKES 0% AZÚCARES AÑADIDOS",
     "valores_nutricionales_100_g": {
@@ -4047,28 +4487,6 @@
     "origen": "alpro"
   },
   {
-    "url": "https://world.openfoodfacts.org/product/8411414014385/florbu",
-    "titulo": "",
-    "valores_nutricionales_100_g": {
-      "Grasas": "19 gr",
-      "Saturadas": "5.1 gr",
-      "Hidratos de carbono": "67 gr",
-      "Azucares": "2.5 gr",
-      "Proteinas": "6.7 gr",
-      "Sal": "0.6875 gr",
-      "Valor energetico": "433 kcal"
-    },
-    "descripcion": "",
-    "categorias": [
-      "en:snacks",
-      "en:sweet-snacks"
-    ],
-    "precio_total": 0.0,
-    "precio_por_cantidad": 0.0,
-    "peso_volumen": "",
-    "origen": "Florbú"
-  },
-  {
     "url": "https://world.openfoodfacts.org/product/8410109115543/cacao-puro-natural-valor",
     "titulo": "100% CACAO PURO NATURAL",
     "valores_nutricionales_100_g": {
@@ -4199,203 +4617,5 @@
     "precio_por_cantidad": 0.0,
     "peso_volumen": "500unknown",
     "origen": "Lidl"
-  },
-  {
-    "url": "https://world.openfoodfacts.org/product/4335619014442/pistachios-roasted-salted-alesto",
-    "titulo": "PISTACHES DE CALIFORNIE GRILLÉES ET SALÉES",
-    "valores_nutricionales_100_g": {
-      "Grasas": "51.6 gr",
-      "Saturadas": "6.2 gr",
-      "Hidratos de carbono": "7.8 gr",
-      "Azucares": "7.7 gr",
-      "Proteinas": "23.6 gr",
-      "Sal": "1.5 gr",
-      "Valor energetico": "614 kcal"
-    },
-    "descripcion": "98,5% pistache, sel, Traces éventuelles d'autres fruits à coque et d'arachides,",
-    "categorias": [
-      "en:plant-based-foods-and-beverages",
-      "en:plant-based-foods"
-    ],
-    "precio_total": 0.0,
-    "precio_por_cantidad": 0.0,
-    "peso_volumen": "250g",
-    "origen": "Alesto, Lidl"
-  },
-  {
-    "url": "https://world.openfoodfacts.org/product/5411188102809/alpro-blueberry-soy-product",
-    "titulo": "HEIDELBEERE",
-    "valores_nutricionales_100_g": {
-      "Grasas": "2.1 gr",
-      "Saturadas": "0.4 gr",
-      "Hidratos de carbono": "8.1 gr",
-      "Azucares": "7.9 gr",
-      "Proteinas": "3.7 gr",
-      "Sal": "0.15 gr",
-      "Valor energetico": "69 kcal"
-    },
-    "descripcion": "soy base (water, peeled _soybeans_ (9,8%)), sugar, blueberry (5,7%), tricalcium citrate, stabilizer (pectins), acid icing regulators (citric acid, sodium citrates), natural aroma, blueberry extract, carrot extract, sea salt, antioxidants (tocopherolrich extract, fatty acid esters of ascorbic acid), vitamins (b2, b12, d2), ferments (s thermophilus, l bulgaricus)",
-    "categorias": [
-      "en:plant-based-foods-and-beverages",
-      "en:fermented-foods"
-    ],
-    "precio_total": 0.0,
-    "precio_por_cantidad": 0.0,
-    "peso_volumen": "500 g",
-    "origen": "alpro"
-  },
-  {
-    "url": "https://world.openfoodfacts.org/product/8410066131334/mayonesa-sabor-tradicional-kraft",
-    "titulo": "MAYONESA SABOR TRADICIONAL",
-    "valores_nutricionales_100_g": {
-      "Grasas": "37 gr",
-      "Saturadas": "4.1 gr",
-      "Hidratos de carbono": "7.3 gr",
-      "Azucares": "3 gr",
-      "Proteinas": "0.7 gr",
-      "Sal": "1.8 gr",
-      "Valor energetico": "372 kcal"
-    },
-    "descripcion": "vinaigre de vino",
-    "categorias": [
-      "en:condiments",
-      "en:sauces"
-    ],
-    "precio_total": 0.0,
-    "precio_por_cantidad": 0.0,
-    "peso_volumen": "500 ml",
-    "origen": "Kraft,Heinz"
-  },
-  {
-    "url": "https://world.openfoodfacts.org/product/3560070710713/pan-tostado-integral-carrefour-bio",
-    "titulo": "PAN TOSTADO INTEGRAL",
-    "valores_nutricionales_100_g": {
-      "Grasas": "4 gr",
-      "Saturadas": "0.5 gr",
-      "Hidratos de carbono": "69 gr",
-      "Azucares": "4 gr",
-      "Proteinas": "12 gr",
-      "Sal": "1.4 gr",
-      "Valor energetico": "375 kcal"
-    },
-    "descripcion": "Harina de trigo*, harina integral de trigo* (32%), aceite vegetal de girasol*, azúcar*, sal, levadura, harina de cebada malteada*, gluten de trigo*, agente de tratamiento de la harina: ácido ascórbico.",
-    "categorias": [
-      "en:plant-based-foods-and-beverages",
-      "en:plant-based-foods"
-    ],
-    "precio_total": 0.0,
-    "precio_por_cantidad": 0.0,
-    "peso_volumen": "250 g",
-    "origen": "Carrefour BIO, Carrefour"
-  },
-  {
-    "url": "https://world.openfoodfacts.org/product/4056489440116/almonds-alesto",
-    "titulo": "AMANDES DÉCORTIQUÉES",
-    "valores_nutricionales_100_g": {
-      "Grasas": "53.3 gr",
-      "Saturadas": "4.3 gr",
-      "Hidratos de carbono": "16.9 gr",
-      "Azucares": "4.8 gr",
-      "Proteinas": "24.5 gr",
-      "Sal": "0.1 gr",
-      "Valor energetico": "621 kcal"
-    },
-    "descripcion": "Amandes.\r\nPeut contenir des traces d'autres fruits à coques et d'arachides.",
-    "categorias": [
-      "en:plant-based-foods-and-beverages",
-      "en:plant-based-foods"
-    ],
-    "precio_total": 0.0,
-    "precio_por_cantidad": 0.0,
-    "peso_volumen": "500g",
-    "origen": "Alesto,LIDL"
-  },
-  {
-    "url": "https://world.openfoodfacts.org/product/8445290157348/nesquik-nestle",
-    "titulo": "NESQUIK",
-    "valores_nutricionales_100_g": {
-      "Grasas": "3.6 gr",
-      "Saturadas": "1.6 gr",
-      "Hidratos de carbono": "78.9 gr",
-      "Azucares": "75.1 gr",
-      "Proteinas": "5.1 gr",
-      "Sal": "0.41 gr",
-      "Valor energetico": "386 kcal"
-    },
-    "descripcion": "Açúcar, cacau magro em pó (23%), emulsionante (lecitina de _soja_), sal, vitaminas (C, D), aroma natural e canela.",
-    "categorias": [
-      "en:cocoa-and-its-products",
-      "en:cocoa-and-chocolate-powders"
-    ],
-    "precio_total": 0.0,
-    "precio_por_cantidad": 0.0,
-    "peso_volumen": "390g",
-    "origen": "Nestlé"
-  },
-  {
-    "url": "https://world.openfoodfacts.org/product/8480000864833/arroz-legumbres-leguminosas-hacendado",
-    "titulo": "TORTITAS DE ARROZ Y LEGUMBRES",
-    "valores_nutricionales_100_g": {
-      "Grasas": "3.2967032967033 gr",
-      "Saturadas": "0.732600732600733 gr",
-      "Hidratos de carbono": "54.9450549450549 gr",
-      "Azucares": "1.83150183150183 gr",
-      "Proteinas": "24.9084249084249 gr",
-      "Sal": "1.65750915750916 gr",
-      "Valor energetico": "366.300366300366 kcal"
-    },
-    "descripcion": "Legumbres en proporción variable (44%) (guisantes amarillos, guisantes verdes, lentejas rojas), harina de arroz (26%), proteína de guisante, harina de lentejas (10%), almidón de patata y sal.",
-    "categorias": [
-      "en:plant-based-foods-and-beverages",
-      "en:plant-based-foods"
-    ],
-    "precio_total": 0.0,
-    "precio_por_cantidad": 0.0,
-    "peso_volumen": "4 tortitas (27,3 g)",
-    "origen": "Hacendado"
-  },
-  {
-    "url": "https://world.openfoodfacts.org/product/20202392/brazil-nuts-alesto",
-    "titulo": "BRAZIL NUTS",
-    "valores_nutricionales_100_g": {
-      "Grasas": "66.5 gr",
-      "Saturadas": "16.3 gr",
-      "Hidratos de carbono": "2.7 gr",
-      "Azucares": "2.5 gr",
-      "Proteinas": "16.9 gr",
-      "Sal": "0.01 gr",
-      "Valor energetico": "697 kcal"
-    },
-    "descripcion": "Whole Brazil nuts",
-    "categorias": [
-      "en:plant-based-foods-and-beverages",
-      "en:plant-based-foods"
-    ],
-    "precio_total": 0.0,
-    "precio_por_cantidad": 0.0,
-    "peso_volumen": "200g",
-    "origen": "Alesto, Lidl, Lidl Alesto"
-  },
-  {
-    "url": "https://world.openfoodfacts.org/product/4056489216162/high-protein-pudding-chocolate-flavour-milbona",
-    "titulo": "HIGH PROTEIN CHOCOLATE FLAVOUR PUDDING",
-    "valores_nutricionales_100_g": {
-      "Grasas": "1.5 gr",
-      "Saturadas": "1 gr",
-      "Hidratos de carbono": "5.2 gr",
-      "Azucares": "4 gr",
-      "Proteinas": "10 gr",
-      "Sal": "0.12 gr",
-      "Valor energetico": "51.1472275334607 kcal"
-    },
-    "descripcion": "Magermilch, Milcheiweiß, Sahne, 2% fettarmes Kakaopulver, modifizierte Stärke, Verdickungsmittel: Carrageen, Natriumcarboxymethylcellulose, natürliches Aroma, Aroma, Süßungsmittel: Acesulfam K, Sucralose, Laktase",
-    "categorias": [
-      "en:dairies",
-      "en:desserts"
-    ],
-    "precio_total": 0.0,
-    "precio_por_cantidad": 0.0,
-    "peso_volumen": "152unknown",
-    "origen": "Milbona"
   }
 ]
