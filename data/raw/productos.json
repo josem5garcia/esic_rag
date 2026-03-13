@@ -1781,8 +1781,8 @@
     "origen": "Philadelphia"
   },
   {
-    "url": "https://world.openfoodfacts.org/product/8076800195057/spaghetti-n5-barilla",
-    "titulo": "SPAGHETTI N5",
+    "url": "https://world.openfoodfacts.org/product/8076800195057/spaghetti-n-5-barilla",
+    "titulo": "SPAGHETTI N°5",
     "valores_nutricionales_100_g": {
       "Grasas": "2 gr",
       "Saturadas": "0.5 gr",
